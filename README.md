@@ -2,6 +2,10 @@
 
 A small appointment-booking app: a public booking form and a password-protected admin dashboard to confirm, cancel or delete bookings.
 
+## Screenshots
+![Booking form](screenshots/booking-form.png)
+![Admin dashboard](screenshots/admin-dashboard.png)
+![Admin login](screenshots/admin-login.png)
 ## Features
 - Server-side validation (name, email, service, date not in the past, time slots 09:00–16:30)
 - Double-booking prevention with a unique database constraint and a friendly error message
